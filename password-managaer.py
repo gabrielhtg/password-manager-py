@@ -76,4 +76,3 @@ while True :
         continue
         
 print("----------------------------------------------------------------------------------------")
-print(Fore.GREEN + Style.BRIGHT + "Test Passed!!" + Style. RESET_ALL)
