@@ -4,7 +4,6 @@ Ini adalah program yang dibuat dengan bahasa pemrograman Python. Program ini ber
 
 ![screenshot](gambar.png)
 
-
 ## <b>About Me</b>
 
 I'm a student at Del Institute of Technology. <br>
